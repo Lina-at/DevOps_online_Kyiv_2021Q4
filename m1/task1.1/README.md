@@ -17,7 +17,7 @@ This is the first task we had in our DevOps education Program. At this task we a
 
 The site was built using images from [pexels.com](https://www.pexels.com/) Website :
 
-* [Lake in the Autumn](https://www.pexels.com/photored-and-orange-autumn-leaves-on-the-ground-and-on-trees-beside-body-of-water-1741696/)
+* [Lake in the Autumn](https://www.pexels.com/photo/red-and-orange-autumn-leaves-on-the-ground-and-on-trees-beside-body-of-water-1741696/)
 * [Trees in Autumn](https://www.pexels.com/photo/red-leafed-tree-near-green-grass-589841/)
 
 ## Git commands that were used:
@@ -30,3 +30,7 @@ git push
 git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short 
 git reflog
 ```
+
+## What DevOps is and why I want to become a DevOps:
+
+DevOps is a combination of cultural philosophies, practices and tools that narrows the gap between Developers and Operations teams in order to provide continuous and smooth improvements to applications in a stable environment to have loyal and happy customers :) and this fits exactly into what I like to do!
