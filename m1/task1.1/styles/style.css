@@ -1,0 +1,18 @@
+h1 {
+ font-size: 25px;
+ color: brown;
+ text-align: center; 
+   }
+   
+h2 {
+ font-size: 16px
+ color: green;
+ text-align: center
+   }
+   
+img {
+  width:1000px;
+  height:600px;
+  margin: auto;
+  display: block;
+  }
