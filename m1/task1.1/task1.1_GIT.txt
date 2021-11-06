@@ -1,0 +1,15 @@
+6aee1e5 HEAD@{0}: merge develop: Fast-forward
+c13142e HEAD@{1}: checkout: moving from develop to master
+6aee1e5 HEAD@{2}: commit (merge): fixing conflict in index.html
+55bf1b5 HEAD@{3}: merge images: Fast-forward
+caedccd HEAD@{4}: checkout: moving from styles to develop
+75e8bd8 HEAD@{5}: commit: styles source added to index.html
+41b61f6 HEAD@{6}: commit: Creating styles folder with styles source
+caedccd HEAD@{7}: checkout: moving from develop to styles
+caedccd HEAD@{8}: checkout: moving from images to develop
+55bf1b5 HEAD@{9}: commit: Adding images source in index.html
+9bc93d3 HEAD@{10}: commit: adding images folder with content
+caedccd HEAD@{11}: checkout: moving from develop to images
+caedccd HEAD@{12}: commit: create empty index.html
+c13142e HEAD@{13}: checkout: moving from master to develop
+c13142e HEAD@{14}: commit (initial): adding empty README file
