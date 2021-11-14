@@ -54,6 +54,5 @@ This part from module 2 covers Clouding and particularly AWS and its services:
 
 ![image15](screenshots-of-steps/15-pushing-image-to-ECR.png)
 
-- Creating a static website on Amazon S3, publicly available depending on [guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html) containg student photo, the name of the educational program (EPAM DevOps online Autumn 2021), the list of AWS services with which the student worked within the educational program or earlier and the full list with links of completed labs (based on [tutorials](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-content-type=content-type%23hands-on&?e=gs2020&p=gsrc&getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all) or [qwiklabs](https://amazon.qwiklabs.com/).
-
-[Link](http://lina-website.com.s3-website.eu-central-1.amazonaws.com) to the website.
+- Creating a static website on Amazon S3, publicly available depending on [guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html) containing student photo, the name of the educational program (EPAM DevOps online Autumn 2021), the list of AWS services with which I worked and the full list with links of completed labs based on [tutorials](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-content-type=content-type%23hands-on&?e=gs2020&p=gsrc&getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all) or [qwiklabs](https://amazon.qwiklabs.com/).
+The [Website](http://lina-website.com.s3-website.eu-central-1.amazonaws.com)
